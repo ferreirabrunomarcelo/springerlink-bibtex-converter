@@ -1,6 +1,6 @@
 # Description
 
-This python script automatically generates a BibTeX file from the citations exported from the [SpringerLink](https://link.springer.com/) database. You might use bib files to upload on platforms that support the conduction of empirical studies (e.g. [Thoth](http://200.132.136.13/Thoth/)) or to edit scientific papers (e.g. [Overleaf](https://www.overleaf.com/)).
+This python script automatically generates a BibTeX file from the citations exported from the [SpringerLink](https://link.springer.com/) database. You can use bib files to upload on platforms that support the conduction of empirical studies (e.g. [Thoth](http://200.132.136.13/Thoth/)) or to edit scientific papers (e.g. [Overleaf](https://www.overleaf.com/)).
 
 # How to use
  
